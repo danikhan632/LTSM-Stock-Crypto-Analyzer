@@ -1,5 +1,5 @@
 
-
+![image1](https://github.com/danikhan632/LTSM-Stock-Crypto-Analyzer/blob/main/images/stock%20banner.jpg)
 ## Overview
 Google Colabatory Link: https://drive.google.com/file/d/1KM26q8wCKJWRWQp7fIuXmXoTkjojstgJ/view?usp=sharing \
 This Python notebook uses yahoo finance data in a LSTM-based neural network. \
@@ -19,6 +19,6 @@ yfinance
 
 Or just use the Google Colab Link : https://drive.google.com/file/d/1KM26q8wCKJWRWQp7fIuXmXoTkjojstgJ/view?usp=sharing
 
-![image1](https://github.com/moxiegushi/pokeGAN/raw/master/images/Notes_1500532347861.jpeg)
+![image1](https://github.com/danikhan632/LTSM-Stock-Crypto-Analyzer/blob/main/images/cover-image-1.PNG)
 
 
